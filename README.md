@@ -26,15 +26,11 @@ This is a basic Student Management System API built using ExpressJS and MongoDB 
     ```bash
    npm install
 
-3. **Set Up Environment Variables:**
-<br>
-   Set Up Environment Variables:
-    Create a .env file in the root directory with the following variables:
-    <br>
+2. **Set Up Environment Variables:**
     ```bash
-    PORT=3000
-    MONGODB_URI=your_mongodb_atlas_connection_string
-    JWT_SECRET=your_secret_key
+   PORT=3000
+   MONGODB_URI=your_mongodb_atlas_connection_string
+   JWT_SECRET=your_secret_key
 
 3. **Run the Application:**
     ```bash
